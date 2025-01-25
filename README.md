@@ -1,5 +1,5 @@
 # Calendar-ICS-Splitter
-Sorts and breaks up very large ICS files into chunks by year
+Sorts events by year and breaks up very large ICS files into smaller files.
 
 Most cloud based calendars today utilize CalDAV as a sync service, which struggles with importing large ics files (typically larger than 500k to 1MB). 
 
