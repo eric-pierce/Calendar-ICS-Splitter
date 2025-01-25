@@ -24,3 +24,6 @@ Both Issues and Contributions and Pull Requests are welcome and encouraged - ple
 ## License
 
 This project is licensed under the [GNU AGPL 3 License](http://www.gnu.org/licenses/agpl-3.0.html)
+
+## Disclaimer
+Use at your own risk.
