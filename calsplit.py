@@ -11,7 +11,6 @@ Usage:
 Arguments:
     INPUT_CALENDAR: Large ICS file
 
-
 Requirements:
     os
     icalendar
