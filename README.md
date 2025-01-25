@@ -8,6 +8,8 @@ This python script sorts events for a given large file by year, and breaks it up
 
 There are several other similar scripts out there, but in testing they all resulted in dropped events.
 
+Note that this script can take some time to run for very large ICS files.
+
 Requires the following python libraries:
 ```
 os
