@@ -4,7 +4,7 @@ Sorts events by year and breaks up very large ICS files into smaller files.
 ## Background
 Most cloud based calendars today utilize CalDAV as a sync service, which struggles with importing large ics files (typically larger than 500k to 1MB). 
 
-This python script sorts events for a given large file by year, and breaks it up into < 1MB chunks for import to a cloud service.
+This python script sorts events for a given large file by year, and breaks it up into < 1MB chunks for import to a cloud service. This was tested with a roughly 20MB ICS file spanning > 20 years of events exported from Google Calendar.
 
 There are several other similar scripts out there, but in testing they all resulted in dropped events.
 
